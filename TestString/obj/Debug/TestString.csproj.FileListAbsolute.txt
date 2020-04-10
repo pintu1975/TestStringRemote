@@ -1,0 +1,15 @@
+E:\Projects\ProjectC#\TestString\TestString\bin\TestString.dll
+E:\Projects\ProjectC#\TestString\TestString\bin\TestString.pdb
+E:\Projects\ProjectC#\TestString\TestString\obj\Debug\TestString.csprojResolveAssemblyReference.cache
+E:\Projects\ProjectC#\TestString\TestString\obj\Debug\TestString.dll
+E:\Projects\ProjectC#\TestString\TestString\obj\Debug\TestString.pdb
+F:\pintu\e\Projects\ProjectC#\TestString\TestString\bin\TestString.dll
+F:\pintu\e\Projects\ProjectC#\TestString\TestString\bin\TestString.pdb
+F:\pintu\e\Projects\ProjectC#\TestString\TestString\obj\Debug\TestString.dll
+F:\pintu\e\Projects\ProjectC#\TestString\TestString\obj\Debug\TestString.pdb
+F:\pintu\e\Projects\ProjectC#\TestString\TestString\obj\Debug\TestString.csprojResolveAssemblyReference.cache
+E:\PROJECT-TEST\ProjectC#\TestString\TestString\bin\TestString.dll
+E:\PROJECT-TEST\ProjectC#\TestString\TestString\bin\TestString.pdb
+E:\PROJECT-TEST\ProjectC#\TestString\TestString\obj\Debug\TestString.dll
+E:\PROJECT-TEST\ProjectC#\TestString\TestString\obj\Debug\TestString.pdb
+E:\PROJECT-TEST\ProjectC#\TestString\TestString\obj\Debug\TestString.csprojResolveAssemblyReference.cache
