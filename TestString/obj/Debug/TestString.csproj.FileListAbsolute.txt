@@ -13,3 +13,9 @@ E:\PROJECT-TEST\ProjectC#\TestString\TestString\bin\TestString.pdb
 E:\PROJECT-TEST\ProjectC#\TestString\TestString\obj\Debug\TestString.dll
 E:\PROJECT-TEST\ProjectC#\TestString\TestString\obj\Debug\TestString.pdb
 E:\PROJECT-TEST\ProjectC#\TestString\TestString\obj\Debug\TestString.csprojResolveAssemblyReference.cache
+E:\PROJECT-TEST\TestString\TestString\bin\TestString.dll.config
+E:\PROJECT-TEST\TestString\TestString\bin\TestString.dll
+E:\PROJECT-TEST\TestString\TestString\bin\TestString.pdb
+E:\PROJECT-TEST\TestString\TestString\obj\Debug\TestString.csprojResolveAssemblyReference.cache
+E:\PROJECT-TEST\TestString\TestString\obj\Debug\TestString.dll
+E:\PROJECT-TEST\TestString\TestString\obj\Debug\TestString.pdb
